@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Snake.cpp
+  text.cxx
+  winbgi.cxx
+H:\Visual Studio project\LunarNewYear2019\Snake & Apple -NDDVHitus\Snake & Apple -NDDVHitus\text.cxx(348,19): warning C4018:  '<': signed/unsigned mismatch
+H:\Visual Studio project\LunarNewYear2019\Snake & Apple -NDDVHitus\Snake & Apple -NDDVHitus\winbgi.cxx(134,14): warning C4101:  'actual_color': unreferenced local variable
+  Generating Code...
+H:\Visual Studio project\LunarNewYear2019\Snake & Apple -NDDVHitus\Snake & Apple -NDDVHitus\winbgi.cxx(133,9): warning C4101:  'bgi_color': unreferenced local variable
+  Project2.vcxproj -> H:\Visual Studio project\LunarNewYear2019\Snake & Apple -NDDVHitus\Snake & Apple -NDDVHitus\Debug\Project2.exe
