@@ -1,0 +1,10 @@
+﻿  drawing.cxx
+H:\Visual Studio project\LunarNewYear2019\Snake & Apple -NDDVHitus\Snake & Apple -NDDVHitus\drawing.cxx(67,61): warning C4312: 'type cast': conversion from 'LONG' to 'WindowData *' of greater size
+H:\Visual Studio project\LunarNewYear2019\Snake & Apple -NDDVHitus\Snake & Apple -NDDVHitus\drawing.cxx(820,9): warning C4101: 'tries': unreferenced local variable
+H:\Visual Studio project\LunarNewYear2019\Snake & Apple -NDDVHitus\Snake & Apple -NDDVHitus\drawing.cxx(860,10): warning C4101: 'answer': unreferenced local variable
+  winbgi.cxx
+H:\Visual Studio project\LunarNewYear2019\Snake & Apple -NDDVHitus\Snake & Apple -NDDVHitus\drawing.cxx(1241,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+H:\Visual Studio project\LunarNewYear2019\Snake & Apple -NDDVHitus\Snake & Apple -NDDVHitus\winbgi.cxx(134,14): warning C4101: 'actual_color': unreferenced local variable
+  Generating Code...
+H:\Visual Studio project\LunarNewYear2019\Snake & Apple -NDDVHitus\Snake & Apple -NDDVHitus\winbgi.cxx(133,9): warning C4101: 'bgi_color': unreferenced local variable
+  Project2.vcxproj -> H:\Visual Studio project\LunarNewYear2019\Snake & Apple -NDDVHitus\Snake & Apple -NDDVHitus\x64\Debug\Project2.exe
